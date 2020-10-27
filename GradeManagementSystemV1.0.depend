@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603686522 source:f:\gms\grademanagementsystemv1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603803187 source:c:\users\35249\desktop\c实验project\实验五\gms\gms\grademanagementsystemv1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1603784451 source:e:\gms\gms\grademanagementsystemv1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
